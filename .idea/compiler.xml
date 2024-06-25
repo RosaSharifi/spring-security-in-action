@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PortalSecurity (1)" />
+        <module name="PortalSecurity (3)" />
+        <module name="PortalSecurity (2)" />
+        <module name="spring-security-in-action" />
+        <module name="PortalSecurity (5)" />
+        <module name="PortalSecurity (4)" />
+        <module name="PortalSecurity (7)" />
+        <module name="PortalSecurity (12)" />
+        <module name="PortalSecurity (6)" />
+        <module name="PortalSecurity (11)" />
+        <module name="PortalSecurity (9)" />
+        <module name="PortalSecurity (10)" />
+        <module name="PortalSecurity (8)" />
+        <module name="PortalSecurity (16)" />
+        <module name="PortalSecurity (15)" />
+        <module name="PortalSecurity (14)" />
+        <module name="PortalSecurity (13)" />
+        <module name="PortalSecurity (17)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PortalSecurity" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="PortalSecurity (1)" options="-parameters" />
+      <module name="PortalSecurity (10)" options="-parameters" />
+      <module name="PortalSecurity (11)" options="-parameters" />
+      <module name="PortalSecurity (12)" options="-parameters" />
+      <module name="PortalSecurity (13)" options="-parameters" />
+      <module name="PortalSecurity (14)" options="-parameters" />
+      <module name="PortalSecurity (15)" options="-parameters" />
+      <module name="PortalSecurity (16)" options="-parameters" />
+      <module name="PortalSecurity (17)" options="-parameters" />
+      <module name="PortalSecurity (2)" options="-parameters" />
+      <module name="PortalSecurity (3)" options="-parameters" />
+      <module name="PortalSecurity (4)" options="-parameters" />
+      <module name="PortalSecurity (5)" options="-parameters" />
+      <module name="PortalSecurity (6)" options="-parameters" />
+      <module name="PortalSecurity (7)" options="-parameters" />
+      <module name="PortalSecurity (8)" options="-parameters" />
+      <module name="PortalSecurity (9)" options="-parameters" />
+      <module name="spring-security-in-action" options="-parameters" />
+    </option>
+  </component>
+</project>
