@@ -1,4 +1,4 @@
-package com.example.portalsecurity.security.security.config;
+package com.example.portalsecurity.security.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

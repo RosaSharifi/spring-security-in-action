@@ -1,4 +1,4 @@
-package com.example.portalsecurity.security.security.user;
+package com.example.portalsecurity.security.user;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
